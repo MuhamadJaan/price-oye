@@ -1,0 +1,324 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.header {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.head {
+    background-color: blue;
+    margin: 15px;
+    width: 240px;
+}
+
+.head img {
+    background-color: blue;
+    width: 80%;
+}
+
+.inp {
+    background-color: blue;
+    margin: 15px;
+    width: 330px;
+    align-items: center;
+}
+
+.inp input {
+    background-color: white;
+    width: 275px;
+    border-radius: 10PX;
+    padding: 18px;
+}
+
+.inp i {
+    background-color: white;
+    color: rgba(0, 0, 255, 0.655);
+    margin-left: -20px;
+    font-size: 25px;
+}
+
+.LOG {
+    background-color: blue;
+    margin: 15px;
+    width: 300px;
+}
+
+.LOG button {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 120px;
+}
+
+.min {
+    flex-wrap: wrap;
+    margin-top: 30px;
+    justify-content: space-evenly;
+    display: flex;
+
+}
+
+.meind {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-evenly;
+    width: 1100px;
+}
+
+.min-1 {
+    height: 400px;
+    text-align: center;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.min-2 i {
+    margin-top: 10px;
+    color: orange;
+}
+
+.min-1 img {
+
+    margin-top: 40px;
+}
+
+.min-2 h2 {
+    color: rgb(106, 109, 111);
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.min-2 p {
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.min-2 span {
+    font-size: 20px;
+}
+
+.min-2 h4 {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.min-bng {
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.bng {
+    border-radius: 10px;
+    margin-top: 10px;
+    margin: 10px;
+    text-align: center;
+    border: 2px solid gray;
+    width: 70px;
+    height: 90px;
+}
+
+.bng h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bng img {
+    width: 60%;
+    margin-top: 10px;
+}
+
+.mild {
+    margin-top: 20px;
+    width: 780px;
+    display: flex;
+    /* background-color: yellowgreen; */
+}
+
+.mil {
+    display: flex;
+    justify-content: end;
+
+}
+
+.mil-1 {
+    margin: 0%;
+}
+
+.mil-1 button {
+    background-color: white;
+    width: 150px;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.mil-1 button:hover {
+    color: white;
+    background-color: yellowgreen;
+}
+
+.div {
+    margin-top: 20px;
+    display: flex;
+    justify-content: end;
+    width: 1250px;
+
+}
+
+.div-1 {
+    border-radius: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    display: flex;
+    width: 390px;
+    border: 2px solid black;
+}
+
+.did {
+    width: 1250px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: end;
+
+}
+
+.did-1 {
+    border-radius: 10px;
+    padding: 20px;
+    justify-content: space-between;
+    display: flex;
+    color: aliceblue;
+    background-color: rgb(176, 172, 172);
+    width: 400px;
+}
+
+.map {
+    margin-top: 10px;
+    width: 1320px;
+    display: flex;
+    justify-content: end;
+}
+
+.map-1 {
+    padding: 10px;
+    width: 500px;
+}
+
+.map-1 button {
+    color: white;
+    width: 220px;
+    padding: 15px;
+    background-color: blue;
+    border-radius: 10px;
+}
+
+.said {
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+}
+
+.said-1 {
+    width: 150px;
+    text-align: center;
+}
+.footer{
+    flex-wrap: wrap;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: blue;
+}
+.fant{
+    margin-top: 20px;
+    background-color: blue;
+    justify-content: space-around;
+    width: 1400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.foot{
+    background-color: blue;
+    width: 200px;
+}
+.foot img{
+    background-color: blue;
+}
+.foot h4{
+    margin-top: 20px;
+    background-color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.feet{
+    width: 200px;
+    background-color: blue;
+}
+.feet h3{
+    background-color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.feet h4{
+    margin-top: 20px;
+    background-color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.fat{
+    background-color: blue;
+    width: 240px;
+}
+.fat h3{
+    background-color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.fat img{
+    margin-top:20px ;
+    background-color: blue;
+}
+.icon{
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    background-color: blue;
+
+}
+.icoon{
+    background-color: blue;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1120px;
+}
+.ic{
+    background-color: blue;
+    text-align: center;
+    width: 200px;
+}
+.ic i{
+    margin: 10px;
+    border-radius: 20px;
+    color: aliceblue;
+    font-size: 20px;
+    background-color:blue;
+}
+
+.ic h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blue;
+    color: white;
+}

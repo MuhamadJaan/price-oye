@@ -1,0 +1,83 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.header {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.head {
+    background-color: blue;
+    margin: 15px;
+    width: 240px;
+}
+
+.head img {
+    background-color: blue;
+    width: 80%;
+}
+
+.inp {
+    background-color: blue;
+    margin: 15px;
+    width: 330px;
+    align-items: center;
+}
+
+.inp input {
+    background-color: white;
+    width: 275px;
+    border-radius: 10PX;
+    padding: 18px;
+}
+
+.inp i {
+    background-color: white;
+    color: rgba(0, 0, 255, 0.655);
+    margin-left: -20px;
+    font-size: 25px;
+}
+
+.LOG {
+    background-color: blue;
+    margin: 15px;
+    width: 300px;
+}
+
+.LOG button {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 120px;
+}
+.gin{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+
+}
+.gin-1{
+    text-align: center;
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+}
+.gin-1 p{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.gin-1 input{
+    margin-top: 10px;
+    padding: 10px;
+    width: 200px;
+}
+.gin-1 label{
+    font-size: 20px;
+}
+.
